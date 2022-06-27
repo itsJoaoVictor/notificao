@@ -1,3 +1,3 @@
 # notificao
 ## Link da página
-https://itsjoaovictor.github.io/Random-image-Feed/
+https://itsjoaovictor.github.io/notificao/
